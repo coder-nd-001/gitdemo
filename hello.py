@@ -1,2 +1,2 @@
-print('Hello world')
-print('add')
+h=5
+print(h)
